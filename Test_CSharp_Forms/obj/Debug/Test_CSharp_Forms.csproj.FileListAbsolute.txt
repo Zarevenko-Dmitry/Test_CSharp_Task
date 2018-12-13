@@ -1,0 +1,6 @@
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\Test_CSharp_Forms\bin\Debug\Test_CSharp_Forms.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\Test_CSharp_Forms\bin\Debug\Test_CSharp_Forms.pdb
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\Test_CSharp_Forms\obj\Debug\Test_CSharp_Forms.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\Test_CSharp_Forms\obj\Debug\Test_CSharp_Forms.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\Test_CSharp_Forms\obj\Debug\Test_CSharp_Forms.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\Test_CSharp_Forms\obj\Debug\Test_CSharp_Forms.pdb

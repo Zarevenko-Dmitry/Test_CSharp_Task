@@ -1,0 +1,12 @@
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.deps.json
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.runtimeconfig.json
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.runtimeconfig.dev.json
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\obj\Debug\netcoreapp1.1\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\obj\Debug\netcoreapp1.1\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\obj\Debug\netcoreapp1.1\UnitTestProject.AssemblyInfo.cs
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\UnitTestProject.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\Test_CSharp_Forms.dll
+D:\Projects\CSharp\Test_CSharp_Forms\Test_CSharp_Forms\UnitTestProject\bin\Debug\netcoreapp1.1\Test_CSharp_Forms.pdb
